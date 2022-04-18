@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\політех\ооп\2\lab_2.7\lab_2.7\Payment.cpp(59,18): warning C4101: z: неиспользованная локальная переменная
+E:\політех\ооп\2\lab_2.7\lab_2.7\Payment.cpp(59,21): warning C4101: v: неиспользованная локальная переменная
+E:\політех\ооп\2\lab_2.7\lab_2.7\Payment.cpp(59,15): warning C4101: p: неиспользованная локальная переменная
+E:\політех\ооп\2\lab_2.7\lab_2.7\Payment.cpp(59,12): warning C4101: y: неиспользованная локальная переменная
+E:\політех\ооп\2\lab_2.7\lab_2.7\Payment.cpp(59,9): warning C4101: x: неиспользованная локальная переменная
+     Создается библиотека E:\Політех\ооп\2\lab_2.7\x64\Debug\UnitTest1.lib и объект E:\Політех\ооп\2\lab_2.7\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Політех\ооп\2\lab_2.7\x64\Debug\UnitTest1.dll
